@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "astro": "^4.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.1",
+    "prettier-plugin-astro": "^0.12.3"
+  }
+}
